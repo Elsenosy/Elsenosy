@@ -1,16 +1,16 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-information?logo=LinkedIn&style=flat&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/taha-elsenosy/)
+![](https://komarev.com/ghpvc/?username=Elsenosy&color=green)
 ### Hi there 👋
+- 🔭 I’m currently working on an awesome project.
+- 🌱 I’m currently learning NuxtJs and Clean Code.
+- 📖 Studing advance topics in Computer Science.
+- 👨‍🎓 Love to share my knowledge with others.
+- 💬 Ask me about Front-End development [VueJs, NuxtJs], Back-End development [PHP, Laravel, Wordpress, APis, Django] and knowledge-based systems as well.
+- 📫 Reach me: <tahaelsenosy@gmail.com>
 
-<!--
-**Elsenosy/Elsenosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Elsenosy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsenosy&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsenosy&show_icons=true&theme=radical&layout=compact&hide_border=true)](https://github.com/Elsenosy/github-readme-stats)
