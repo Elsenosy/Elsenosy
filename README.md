@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an awesome project.
 - 🌱 I’m currently learning NuxtJs and Clean Code.
-- 📖 Studing advance topics in Computer Science.
+- 📖 Studing advanced topics in Computer Science.
 - 👨‍🎓 Love to share my knowledge with others.
 - 💬 Ask me about Front-End development [VueJs, NuxtJs], Back-End development [PHP, Laravel, Wordpress, APis, Django] and Knowledge-Based systems as well.
 - 📫 Reach me: <tahaelsenosy@gmail.com>
