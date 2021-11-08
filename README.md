@@ -12,5 +12,6 @@
 
 ### 📈 GitHub Stats
 
-![Elsenosy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsenosy&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&hide_border=true)
+<!-- ![Elsenosy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsenosy&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsenosy&show_icons=true&theme=radical&layout=compact&hide_border=true)](https://github.com/Elsenosy/github-readme-stats)
+-->
