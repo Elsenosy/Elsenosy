@@ -1,9 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-information?logo=LinkedIn&style=flat&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/taha-elsenosy/)
 ![](https://komarev.com/ghpvc/?username=Elsenosy&color=green)
 ### Hi there 👋
-- 📖 Studing advanced topics in Computer Science.
-- 👨‍🎓 Love to share my knowledge with others.
-- 💬 Ask me about Front-End development [VueJs, NuxtJs], Back-End development [PHP, Laravel, Wordpress, APis, Django] and Knowledge-Based systems as well.
 - 📫 Reach me: <tahaelsenosy@gmail.com>
 
 <!-- 
